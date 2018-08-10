@@ -1,5 +1,6 @@
 FROM docker.io/ubuntu:18.04
 
+# Modified by Tim Fournet 20180810
 # Use the following 2 env variables if you need proxy support in your environment
 #ENV https_proxy=http://10.0.2.2:3128
 #ENV http_proxy=http://10.0.2.2:3128
